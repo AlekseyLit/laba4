@@ -1,0 +1,160 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:ital,wght@0,700;1,300&family=Titillium+Web:ital,wght@1,200&display=swap');
+
+body{
+	background-color:#fafafa;
+	margin:0;
+	padding:0;
+}
+p{
+	padding:0;
+}
+/* header */
+header{
+	position:relative;
+	margin-top:149px;
+	margin-left:8px;
+	background-image:url(media/black.png);
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-position: left -8px top -149px;
+	background-color:black;
+	width: 1508px;
+	height: 650px;
+}
+
+.menu{
+	width: 207px;
+	height: 150px;
+	border-radius: 8px;
+	background-color: #a41b15;
+	color: #fafafa;
+	float:right;
+}
+	
+.block1{
+	width: 200px;
+	height: 109px;
+	box-shadow: 0 1px 0 rgba(255, 255, 255, 0.25);
+	border-radius: 0;
+	background-color: #941c17;
+	margin-left:4px;
+}
+
+.sushi{
+	width: 106px;
+	height: 62px;
+	margin-left:46px;
+	margin-top:25px;
+}
+
+.block2{
+	width: 200px;
+	height: 41px;
+	box-sizing:border-box;
+	margin-left:3px;
+	border-top:1px solid #a41b15;
+	border-bottom:1px solid #a41b15;
+	font-size: 13px;
+	background-color: #941c17;
+}
+.block2 div{
+	height: 39px;
+	float:left;
+}
+.d1{
+	width:30px;
+}
+.d2{
+	width:83px;
+	border-right:1px solid #a41b15;
+	border-left:1px solid #a41b15;
+}
+
+.d3 p{
+	margin-left:45px;
+}
+.block2 div img{
+	margin-left:3px;
+	margin-top:12px;
+	margin-right:10px;
+	float:left;
+	
+}
+.headline{
+	position:absolute;
+	top:130px;
+	left:534px;
+	width: 434px;
+	height: 112px;
+	
+}
+.heading{
+	height: 32px;
+	color: #fafafa;
+	font-size: 33px;
+	font-style: italic;
+	text-align: center;
+}
+/* "Best deliv" */
+.heading .best{
+	font-family: 'Titillium Web', sans-serif;
+
+}
+/* "Japanese c" */
+.heading .japanise{
+	font-family: 'Titillium Web', sans-serif;
+    font-weight: bold;
+}
+.postcode{
+	width: 281px;
+	height: 43px;
+	border-radius: 4px;
+	background-color: #ffffff;
+	margin-left:65px;
+	margin-top:37px;
+}
+
+.postcode p{
+	color: #c9c9c9;
+	font-size: 14px;
+	font-style: italic;
+	margin-top:16px;
+	margin-left:14px;
+	float:left;
+}
+.search{
+	width: 82px;
+	height: 37px;
+	border-radius: 4px;
+	background-color: #a41b15;
+	margin-top:3px;
+	margin-right:4px;
+	float:right;
+}
+.search p{
+	color: #ffffff;
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 11px;
+	margin-top:12px;
+}
+
+.lupa{
+	margin:12px;
+	margin-right:0;
+	float:left;	
+}
+.sushi_plate{
+	position:absolute;
+	top:275px;
+	left:805px;
+	float:left;
+}	
+.shadow{
+	position:absolute;
+    width: 675px;
+    height: 96px;
+	left:797px;
+	top:623px;
+}	
